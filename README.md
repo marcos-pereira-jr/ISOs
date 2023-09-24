@@ -10,7 +10,7 @@ Inquiry Request for Comments Repository and ISOs
 | [7087](https://datatracker.ietf.org/doc/html/rfc7807)   | Problem Details for HTTP APIs |,
 
 
-### HTTP Security
+### HTTP RFC Security
 | Link | Description |
 | ------ | ----------- |
 | [7519](https://datatracker.ietf.org/doc/html/rfc7519)   |  JSON Web Token (JWT) |,
