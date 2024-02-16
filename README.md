@@ -8,7 +8,7 @@ Inquiry Request for Comments Repository and ISOs
 | [1035](https://datatracker.ietf.org/doc/html/rfc1035)   | Domain Names - Implementation and Specification (DNS) |,
 | [7231](https://datatracker.ietf.org/doc/html/rfc7231)   | Hypertext Transfer Protocol (HTTP/1.1): Semantics and Conten (RFC) |,
 | [7087](https://datatracker.ietf.org/doc/html/rfc7807)   | Problem Details for HTTP APIs |,
-
+| [8259](https://datatracker.ietf.org/doc/html/rfc8259)   | The JavaScript Object Notation (JSON) Data Interchange Format |,
 
 ### HTTP RFC Security
 | Link | Description |
