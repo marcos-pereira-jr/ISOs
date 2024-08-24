@@ -27,4 +27,4 @@ Inquiry Request for Comments Repository and ISOs
 ### Format Date
 | Link | Description |
 | ------ | ----------- |
-| [ISO 8601](https://fits.gsfc.nasa.gov/iso-time.html#:~:text=International%20Standard%20ISO%208601%20specifies,portability%20of%20computer%20user%20interfaces.)   | Format Date withou time |,
+| [ISO 8601](https://fits.gsfc.nasa.gov/iso-time.html#:~:text=International%20Standard%20ISO%208601%20specifies,portability%20of%20computer%20user%20interfaces.)   | Format Date |,
