@@ -10,6 +10,12 @@ Inquiry Request for Comments Repository and ISOs
 | [7087](https://datatracker.ietf.org/doc/html/rfc7807)   | Problem Details for HTTP APIs |,
 | [8259](https://datatracker.ietf.org/doc/html/rfc8259)   | The JavaScript Object Notation (JSON) Data Interchange Format |,
 
+### Transactional
+| Link | Description |
+| ------ | ----------- |
+| [ISO_8583]([https://pt.wikipedia.org/wiki/ISO_8583))   | International standard for financial transaction card originated interchange messaging|,
+
+
 ### HTTP RFC Security
 | Link | Description |
 | ------ | ----------- |
